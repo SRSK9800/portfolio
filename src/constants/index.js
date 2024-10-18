@@ -130,8 +130,8 @@ export const educationList = [
   {
     id: "education-1",
     icon: nitk,
-    title: "National Institute of Technology Karnataka, Surathkal",
-    degree: "Bachelor of Technology",
+    title: "Sankar Narayan College of Engineering",
+    degree: "Bachelor of Science ",
     duration: "December 2020 - May 2024",
     content1: "Major: Electronics and Communication Engineering",
     content2: "Minor: Information Technology",
@@ -221,7 +221,6 @@ export const achievements = [
     project: "https://devfolio.co/projects/green-trust-ed14",
   },
 ];
-
 
 export const skills = [
   {
