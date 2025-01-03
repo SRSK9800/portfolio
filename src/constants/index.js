@@ -939,12 +939,12 @@ export const socialMedia = [
   {
     id: "social-media-2",
     icon: AiFillGithub,
-    link: "https://www.github.com/mittal-parth",
+    link: "https://www.github.com/SRSK9800",
   },
   {
     id: "social-media-3",
     icon: AiFillMail,
-    link: "mailto:mittalparth22@gmail.com",
+    link: "mailto:kashyapcpu@gmail.com",
   },
   {
     id: "social-media-4",
