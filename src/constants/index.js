@@ -413,20 +413,20 @@ export const experiences = [
     ],
   },
   {
-    organisation: "Averlon",
+    organisation: "Local cyber cafe",
     logo: averlon,
-    link: "https://averlon.ai/",
+    //link: "https://averlon.ai/",
     positions: [
       {
-        title: "Software Developer Intern",
-        duration: "Sept 2023 - Feb 2024",
+        title: "Helper",
+        duration: "Feb 2021 - March 2023",
         content: [
           {
-            text: "Added support for the discoverability of Microsoft Azure assets utilising Go and Gremlin.",
+            text: "Operated and maintained computer systems and peripherals in a fast-paced cybercafe environment.",
             link: ""
           },
           {
-            text: "Extended support for Azure for reachability analysis of assets for cloud security posture management.",
+            text: "Assisted customers with computer usage, software applications, and troubleshooting technical issues.",
             link: ""
           }
         ],
@@ -434,54 +434,54 @@ export const experiences = [
     ],
   },
   {
-    organisation: "IRIS, NITK",
+    organisation: "Bombay Exhibition Centre and Jio Convention Centre",
     logo: iris,
-    link: "https://iris.nitk.ac.in/about_us",
+    //link: "https://iris.nitk.ac.in/about_us",
     positions: [
       {
-        title: "Tech Lead",
-        duration: "Apr 2023 - Apr 2024",
-        content: [
-          {
-            text: "Led a team of 40+ students in digitizing administrative, academic and alumni-related work.",
-            link: "",
-          },
-          {
-            text: "Managed all phases of Software Development Life Cycle (SDLC) for 15+ modules.",
-            link: "",
-          },
-        ],
+        title: "Hall Manager And Visitor Registration Coordinator",
+        duration: "jn 2023 - Feb 2023",
+        // content: [
+        //   {
+        //     text: "Led a team of 40+ students in digitizing administrative, academic and alumni-related work.",
+        //     link: "",
+        //   },
+        //   {
+        //     text: "Managed all phases of Software Development Life Cycle (SDLC) for 15+ modules.",
+        //     link: "",
+        //   },
+        // ],
       },
-      {
-        title: "Web Lead",
-        duration: "Apr 2022 - Present",
-        content: [
-          {
-            text: "Managing a team of 6 student developers while also overlooking multiple modules.",
-            link: "",
-          },
-        ],
-      },
-      {
-        title: "Web Developer",
-        duration: "Nov 2021 - Apr 2022",
-        content: [
-          {
-            text: "Added Conditional Fields support to the Forms Module.",
-            link: "",
-          },
-        ],
-      },
-      {
-        title: "Web Developer Intern",
-        duration: "Jun 2021 - Oct 2021",
-        content: [
-          {
-            text: "Developed a multi-role approval flow system to facilitate data collection and display on the Institute's Department Websites.",
-            link: "",
-          },
-        ],
-      },
+      // {
+      //   title: "Web Lead",
+      //   duration: "Apr 2022 - Present",
+      //   content: [
+      //     {
+      //       text: "Managing a team of 6 student developers while also overlooking multiple modules.",
+      //       link: "",
+      //     },
+      //   ],
+      // },
+      // {
+      //   title: "Web Developer",
+      //   duration: "Nov 2021 - Apr 2022",
+      //   content: [
+      //     {
+      //       text: "Added Conditional Fields support to the Forms Module.",
+      //       link: "",
+      //     },
+      //   ],
+      // },
+      // {
+      //   title: "Web Developer Intern",
+      //   duration: "Jun 2021 - Oct 2021",
+      //   content: [
+      //     {
+      //       text: "Developed a multi-role approval flow system to facilitate data collection and display on the Institute's Department Websites.",
+      //       link: "",
+      //     },
+      //   ],
+      // },
     ],
   }
 ];
